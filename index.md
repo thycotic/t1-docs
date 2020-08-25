@@ -10,13 +10,13 @@ This documentation details the Thycotic One single-sign-on and Cloud Manager cro
 
 > **Note:** Navigate using the dynamic table of contents on the left, the page contents on the right, or by entering a search term above. Many pages in this documentation have sub-pages. The container (parent) pages can have introductory text or simply a heading with no text. Please click the table of contents on the left to see any sub-pages it might have.
 
-We suggest starting with [Understanding the Cloud Manager Dashboard](./cloud-manager-general-procedures/index.md#understanding-the-dashboard).
+We suggest starting with [Understanding the Cloud Manager Dashboard](./cloud-manager-general/index.md#understanding-the–cloud-manager-dashboard).
 
 ## Documentation
 
 ### Primary Documentation
 
-- [Thycotic Documentation Portal](https://docs.thycotic.com/to/): You are at the home page of the current Thycotic Document Portal for Thycotic One and Cloud Manager. It contains:
+- [Thycotic Documentation Portal](https://docs.thycotic.com/t1/): You are at the home page of the current Thycotic Document Portal for Thycotic One and Cloud Manager. It contains:
 - Converted knowledge base articles. These are marked as *deprecated* in the legacy knowledge base.
   
 - Links to legacy knowledge bases article that have yet to be converted or retired
@@ -38,6 +38,5 @@ We suggest starting with [Understanding the Cloud Manager Dashboard](./cloud-man
 ### Secret Society (Forum)
 
 - [Forum](https://thycotic.force.com/support/s/topic/0TO370000008fpDGAQ/secret-server) (legacy—replaced by Secret Society)
-
 - [Thycotic Secret Society](https://thycotic.com/community/secret-society/): An Educational Community, replacing the Forum.
 
