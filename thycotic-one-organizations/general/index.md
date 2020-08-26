@@ -1,10 +1,10 @@
 
 
-[title]: # (Thycotic One Organization General)
-[tags]: # (Thycotic One, Cloud Manager, Organizations)
+[title]: # (Organization General Procedures)
+[tags]: # (Thycotic One, Organizations)
 [priority]: # (1000)
 
-# Team Organization General
+# Organization General Procedures
 
 ## Adding External Authorization Providers
 
@@ -46,7 +46,7 @@
 
 1. Name and cloud region:
 
-   - Edit the name in the **Name** text box. RAMIFICATIONS OF CHANGING THIS?
+   - Edit the name in the **Name** text box. 
 
    - Click to select the Thycotic cloud region in the **Thycotic One Connection** dropdown list. WILL NOTE: RAMIFICATIONS OF CHANGING THIS?
 

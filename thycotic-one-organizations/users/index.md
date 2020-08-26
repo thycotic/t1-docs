@@ -1,5 +1,5 @@
-[title]: # (Organization User Procedures)
-[tags]: # (Thycotic One, Cloud Manager, Organizations, Applications, Users)
+[title]: # (Organization Users)
+[tags]: # (Thycotic One, Organizations, Applications, Users)
 [priority]: # (1000)
 
 # Organization Users
@@ -64,7 +64,7 @@
 
    - **Enabled**: Allows you to toggle a user's access without having to reenter the user later.
 
-   - **Active**: Read only. WILL NOTE: NOT SURE HOW ACTIVE DIFFERS FROM ENABLED.
+   - **Active**: Read only. This is a flag that indicates if a user has ever logged on.
 
    - **Locked Out**: Read only. Toggle the setting on the user row on the users table. 
 
@@ -78,7 +78,7 @@
 
 1. New phone numbers:
 
-   1. Click the + New button. A popup appears:
+   1. Click the **+ New** button. A popup appears:
 
       ![image-20200824143702831](images/image-20200824143702831.png)
 
@@ -88,7 +88,7 @@
 
       ![image-20200824145239200](images/image-20200824145239200.png)
 
-      WILL NOTE: HOW DOES THE PHONE GET VERIFIED?
+      > **Note:** Verification occurs when the user logs on Thycotic One and and goes to the Phone page to run a verification.
 
 1. Existing phone numbers:
 

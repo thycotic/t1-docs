@@ -51,7 +51,7 @@
 
 # Cloud Alert Subscriptions
 
-## Subscribing to Alerts
+## Subscribing to Cloud Alerts
 
 1. Log on to your Cloud Manager at `portal.thycotic.com`.
 
@@ -77,9 +77,11 @@
 
 ## Viewing or Editing Alert Subscription Details
 
-1. [Open Cloud Manager](#open-cloud-manager).
+1. Log on to your Cloud Manager at `portal.thycotic.com`.
 
-1. On the **Teams** page, click the **Cloud Status** link at the top right of the page. The Thycotic Service Status page appears:
+1. Click the **Manage** link and select **Teams**. The Teams page appears.
+
+1. Click the **Cloud Status** link at the top right of the page. The Thycotic Service Status page appears:
 
    ![image-20200821121809613](images/image-20200821121809613.png)
 
@@ -97,4 +99,4 @@
 
 1. Click the **Get Manage Link** button. A confirmation page appears.
 
-1. Confirm the subscription on your phone or via email when the message arrives. THE CONFIRMATION NEVER ARRIVED, SO I DON'T KNOW WHAT COMES NEXT.
+1. Confirm the subscription on your phone or via email when the message arrives. 

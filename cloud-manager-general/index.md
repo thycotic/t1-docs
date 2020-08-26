@@ -1,8 +1,8 @@
-[title]: # (Thycotic One General Procedures)
-[tags]: # (Cloud Manager, Thycotic One)
+[title]: # (Cloud Manager General Procedures)
+[tags]: # (Cloud Manager)
 [priority]: # (1000)
 
-# Thycotic One General Procedures
+# Cloud Manager General Procedures
 
 ## Opening Cloud Manager
 
@@ -30,7 +30,7 @@
 
 1. (Optional) Click to select the **Remember Me** check box if you want your log on credentials to be remembered on this computer. Only do this on secure computers that only you have access to.
 
-1. Click the **Next** button. Your SSC dashboard appears:
+1. Click the **Next** button. Your Cloud Manager dashboard appears:
 
    ![image-20200821112448071](images/image-20200821112448071.png)
 
@@ -55,10 +55,10 @@ The Cloud Manager dashboard provides and overview of your cloud instance. It pro
 
 - **Frequency**: Expiration status and subscription renewal frequency.
 
-- **Secret Server Cloud Status**: The status of all the parent clouds and related components. It also includes their state history. See [Viewing Cloud Status](#viewing-cloud-status)
+- **Secret Server Cloud Status**: The status of all the Thycotic clouds and related components. It also includes their state history. See [Viewing Cloud Status](#viewing-cloud-status)
 
 - **Subscription Details**: A dropdown that shows the details for each cloud product that you own, including the number of licenses and the expiration dates.
 
-- **Status**: The current state your cloud instance.
+- **Status**: The current state of your cloud instance.
 
 - **Tech Support PIN**: A generator for a PIN that you will need if you choose to contact our technical support. See [Technical Support](../help/technical-support/index.md).

@@ -1,12 +1,12 @@
 
 
-[title]: # (Thycotic One Team Application Credentials)
+[title]: # (Thycotic One Application Credentials)
 [tags]: # (Thycotic One, Cloud Manager, application, credentials, organizations)
 [priority]: # (1000)
 
-# Thycotic One Team Application Credentials
+# Thycotic One Application Credentials
 
-An *team application credential* is a client ID and client secret that applications, such as Secret Server Cloud, use to  connect to Thycotic One and authenticate against it. Credentials can also push user accounts into Thycotic One. For example, SSC syncs its user account list with Thycotic One when that option is enabled. All those users belong to the original organization, which is set up for them when they provision the instance.
+An *application credential* is a client ID and client secret that applications, such as Secret Server Cloud, use to  connect to Thycotic One and authenticate against it. Credentials can also push user accounts into Thycotic One. For example, SSC syncs its user account list with Thycotic One when that option is enabled. All those users belong to the original organization, which is set up for them when they provision the instance.
 
 ## Editing Credentials
 

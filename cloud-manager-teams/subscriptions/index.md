@@ -2,7 +2,11 @@
 [tags]: # (Thycotic One, Cloud Manager)
 [priority]: # (1000)
 
-# Thycotic One Team Cloud Subscriptions
+# Team Subscriptions
+
+*Subscriptions* are SSC instances.  Products are essentially the exact same thing for Thycotic cloud products other than SSC, such as Privilege Manager Cloud, DevOps Vault, and Account Lifecyle Manager.
+
+> **Note:** The reason there are two names for nearly the same thing is they came from separate legacy development paths. We intend to combine them in a future Cloud Manager release.
 
 ## Viewing and Editing Team Subscriptions
 

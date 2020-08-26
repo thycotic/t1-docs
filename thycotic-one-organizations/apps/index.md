@@ -1,14 +1,14 @@
-[title]: # (Thycotic One Team Organization Applications)
+[title]: # (Thycotic One Organization Applications)
 [tags]: # (Thycotic One, Cloud Manager, Organizations, Applications)
 [priority]: # (1000)
 
-# Thycotic One Team Organization Applications
+# Thycotic One Organization Applications
 
-Applications are those applications that you want to run under Thycotic One single sign on. They can be from Thycotic or third parties and cloud-based or on-premises. The configured applications appear on your Thycotic One log on page.
+Organization *applications* are subscriptions (SSC instances), products (other Thycotic cloud products), Thycotic on-premises applications, or even third-party cloud or on-premises applications that run under Thycotic One single sign on, that is, to appear on your Thycotic One log on page. The configured applications appear on your Thycotic One log on page. 
+
+> **Note:** It is possible to have subscriptions and products that are *not* applications—applications are integrated with the Thycotic One log on.
 
 ## Adding Applications
-
-1. WILL NOTE: DO WHAT YOU NEED TO DO THE MAKE THE APP APPEAR AS AN OPTION LATER ON.
 
 1. Log on to your Cloud Manager at `portal.thycotic.com`.
 
@@ -22,7 +22,9 @@ Applications are those applications that you want to run under Thycotic One sing
 
    ![image-20200824110704433](images/image-20200824110704433.png)
 
-1. Click the **+ New** button. The application appears in the Organization Apps page.
+1. Click the **+ New** button. WILL NOTE: Not sure what happens next—it blew up:
+
+   ![image-20200826160242593](images/image-20200826160242593.png)
 
 ## Deleting Applications
 
