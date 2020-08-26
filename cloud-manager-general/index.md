@@ -59,6 +59,16 @@ The Cloud Manager dashboard provides and overview of your cloud instance. It pro
 
 - **Subscription Details**: A dropdown that shows the details for each cloud product that you own, including the number of licenses and the expiration dates.
 
-- **Status**: The current state of your cloud instance.
+- **Status**: The current state of your cloud instance:
+
+  - Canceled
+
+  - Provisioned
+
+  - Provisioning in Progress…
+
+  - Error During Provisioning
+
+  - Not Provisioned.
 
 - **Tech Support PIN**: A generator for a PIN that you will need if you choose to contact our technical support. See [Technical Support](../help/technical-support/index.md).
