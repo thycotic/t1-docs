@@ -30,11 +30,11 @@ An *team application credential* is a client ID and client secret that applicati
 
    - **Name**: This name appears somewhere. ANY CONSIDERATIONS?
 
-   - **Post-Login Redirect URIs**: Location where your users are redirected for log on. Click the **+** to add URLs to the list. Click the red trashcan button to delete one. THE VALUES SHOWN ARE URLS, NOT URIS. CAN YOU REALLY USE URIS? I DON'T UNDERSTAND HOW YOU CAN BE REDIRECTED TO MORE THAN ONE PLACE. YOU CHOOSE BETWEEN THEM ELSEWHERE?
+   - **Post-Login Redirect URIs**: Location where your users are redirected for log on. Click the **+** to add URLs to the list. Click the red trashcan button to delete one. WILL NOTE: THE VALUES SHOWN ARE URLS, NOT URIS. CAN YOU REALLY USE URIS? I DON'T UNDERSTAND HOW YOU CAN BE REDIRECTED TO MORE THAN ONE PLACE. YOU CHOOSE BETWEEN THEM ELSEWHERE?
 
-   - **Post-Logout Redirect URIs Credentials**: Location where your users are redirected upon log off. It includes the endpoint URL and the client ID. It is read only for the Thycotic One log on. Click the **+** to add URLs to the list.  Click the red trashcan button to delete one. I DON'T UNDERSTAND HOW YOU CAN BE REDIRECTED TO MORE THAN ONE PLACE. YOU CHOOSE BETWEEN THEM ELSEWHERE?
+   - **Post-Logout Redirect URIs Credentials**: Location where your users are redirected upon log off. It includes the endpoint URL and the client ID. It is read only for the Thycotic One log on. Click the **+** to add URLs to the list.  Click the red trashcan button to delete one. WILL NOTE: I DON'T UNDERSTAND HOW YOU CAN BE REDIRECTED TO MORE THAN ONE PLACE. YOU CHOOSE BETWEEN THEM ELSEWHERE?
 
-   - **Revoked**: Click to select this if you wish to revoke the credential. WHY NOT JUST DELETE IT?
+   - **Revoked**: Click to select this if you wish to revoke the credential. WILL NOTE: WHY NOT JUST DELETE IT?
 
 1. Click the **Save** button.
 

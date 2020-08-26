@@ -4,7 +4,7 @@
 
 # Thycotic One Team Roles
 
-NEED TO KNOW EXACTLY WHAT THESE PERMISSIONS DO.
+WILL NOTE: NEED TO KNOW EXACTLY WHAT THESE PERMISSIONS DO.
 
 Roles and their permissions:
 

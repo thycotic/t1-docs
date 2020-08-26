@@ -48,7 +48,7 @@
 
    - Edit the name in the **Name** text box. RAMIFICATIONS OF CHANGING THIS?
 
-   - Click to select the Thycotic cloud region in the **Thycotic One Connection** dropdown list. RAMIFICATIONS OF CHANGING THIS?
+   - Click to select the Thycotic cloud region in the **Thycotic One Connection** dropdown list. WILL NOTE: RAMIFICATIONS OF CHANGING THIS?
 
 1. Log on security:
 

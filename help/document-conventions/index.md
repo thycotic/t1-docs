@@ -18,7 +18,7 @@ More specifically, the only things capitalized in this document are:
 
 - Acronyms and initializations
 
-- When referring to any UI labels that are capitalized
+- When referring to any UI labels or pages that are capitalized
 
 - When the word begins a sentence or phrase
 

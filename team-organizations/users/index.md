@@ -62,7 +62,7 @@
 
    - **Name**: This is the user's email address or other unique name.
    - **Enabled**: Allows you to toggle a user's access without having to reenter the user later.
-   - **Active**: Read only. NOT SURE HOW THIS DIFFERS FROM ENABLED.
+   - **Active**: Read only. WILL NOTE: NOT SURE HOW ACTIVE DIFFERS FROM ENABLED.
    - **Locked Out**: Read only. Toggle the setting on the user row on the users table. 
 
 1. Click the **Save** button. You are returned to the Users page.
@@ -85,7 +85,7 @@
 
       ![image-20200824145239200](images/image-20200824145239200.png)
 
-      HOW DOES THE PHONE GET VERIFIED?
+      WILL NOTE: HOW DOES THE PHONE GET VERIFIED?
 
 1. Existing phone numbers:
 

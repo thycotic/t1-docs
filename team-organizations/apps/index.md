@@ -8,7 +8,7 @@ Applications are those applications that you want to run under Thycotic One sing
 
 ## Adding Applications
 
-1. DO WHAT YOU NEED TO DO THE MAKE THE APP APPEAR AS AN OPTION LATER ON.
+1. WILL NOTE: DO WHAT YOU NEED TO DO THE MAKE THE APP APPEAR AS AN OPTION LATER ON.
 
 1. Log on to your Cloud Manager at `portal.thycotic.com`.
 
@@ -58,7 +58,7 @@ Applications are those applications that you want to run under Thycotic One sing
 
    ![image-20200824111005159](images/image-20200824111005159.png)
 
-1. Edit the **Base URL**, **Login URL**, and Editing Secret Server Cloud and Other Applications text boxes as desired. DOES ANYTHING FUNKY HAPPEN IF YOU CHANGE THE APP NAME?
+1. Edit the **Base URL**, **Login URL**, and Editing Secret Server Cloud and Other Applications text boxes as desired. WILL NOTE: DOES ANYTHING FUNKY HAPPEN IF YOU CHANGE THE APP NAME?
 
 1. Click the **Save** button.
 
