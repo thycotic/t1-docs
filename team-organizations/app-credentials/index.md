@@ -1,8 +1,8 @@
 
 
-[title]: # "Thycotic One Team Application Credentials"
-[tags]: # "Thycotic One, Cloud Manager, application, credentials, organizations"
-[priority]: # "1000"
+[title]: # (Thycotic One Team Application Credentials)
+[tags]: # (Thycotic One, Cloud Manager, application, credentials, organizations)
+[priority]: # (1000)
 
 # Thycotic One Team Application Credentials
 

@@ -1,6 +1,6 @@
-[title]: # "Help"
-[tags]: # "Thycotic One, Cloud Manager, Help, Support"
-[priority]: # "1000"
+[title]: # (Help)
+[tags]: # (Thycotic One, Cloud Manager, Help, Support)
+[priority]: # (1000)
 
 #  Help
 

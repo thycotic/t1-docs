@@ -1,6 +1,6 @@
-[title]: # "Requesting New Features"
-[tags]: # "new features"
-[priority]: # "1000"
+[title]: # (Requesting New Features)
+[tags]: # (new features)
+[priority]: # (1000)
 
 # Requesting New Features
 

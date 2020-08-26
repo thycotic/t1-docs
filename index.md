@@ -1,6 +1,6 @@
-[title]: # "Thycotic One and Cloud Manager Documentation"
-[tags]: # "Thycotic One, Cloud Manager"
-[priority]: # "1000"
+[title]: # (Thycotic One and Cloud Manager Documentation)
+[tags]: # (Thycotic One, Cloud Manager)
+[priority]: # (1000)
 
 # Thycotic One and Cloud Manager Documentation
 
@@ -38,5 +38,6 @@ We suggest starting with [Understanding the Cloud Manager Dashboard](./cloud-man
 ### Secret Society (Forum)
 
 - [Forum](https://thycotic.force.com/support/s/topic/0TO370000008fpDGAQ/secret-server) (legacy—replaced by Secret Society)
+
 - [Thycotic Secret Society](https://thycotic.com/community/secret-society/): An Educational Community, replacing the Forum.
 

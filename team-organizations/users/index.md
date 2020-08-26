@@ -1,6 +1,6 @@
-[title]: # "Organization User Procedures"
-[tags]: # "Thycotic One, Cloud Manager, Organizations, Applications, Users"
-[priority]: # "1000"
+[title]: # (Organization User Procedures)
+[tags]: # (Thycotic One, Cloud Manager, Organizations, Applications, Users)
+[priority]: # (1000)
 
 # Organization Users
 
@@ -61,8 +61,11 @@
 1. Edit the following as desired:
 
    - **Name**: This is the user's email address or other unique name.
+
    - **Enabled**: Allows you to toggle a user's access without having to reenter the user later.
+
    - **Active**: Read only. WILL NOTE: NOT SURE HOW ACTIVE DIFFERS FROM ENABLED.
+
    - **Locked Out**: Read only. Toggle the setting on the user row on the users table. 
 
 1. Click the **Save** button. You are returned to the Users page.

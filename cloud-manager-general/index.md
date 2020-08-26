@@ -1,6 +1,6 @@
-[title]: # "Thycotic One General Procedures"
-[tags]: # "Cloud Manager, Thycotic One"
-[priority]: # "1000"
+[title]: # (Thycotic One General Procedures)
+[tags]: # (Cloud Manager, Thycotic One)
+[priority]: # (1000)
 
 # Thycotic One General Procedures
 
@@ -48,12 +48,17 @@
 The Cloud Manager dashboard provides and overview of your cloud instance. It provides:
 
 - **Cloud**: The parent cloud of your instance.
+
 - **Domain**: The name of and a link to your cloud instance
+
 - **Edition**: A summary of your license status and number of users.
+
 - **Frequency**: Expiration status and subscription renewal frequency.
+
 - **Secret Server Cloud Status**: The status of all the parent clouds and related components. It also includes their state history. See [Viewing Cloud Status](#viewing-cloud-status)
+
 - **Subscription Details**: A dropdown that shows the details for each cloud product that you own, including the number of licenses and the expiration dates.
+
 - **Status**: The current state your cloud instance.
+
 - **Tech Support PIN**: A generator for a PIN that you will need if you choose to contact our technical support. See [Technical Support](../help/technical-support/index.md).
-
-

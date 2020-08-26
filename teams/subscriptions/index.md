@@ -1,6 +1,6 @@
-[title]: # "Thycotic One Team Cloud Subscriptions"
-[tags]: # "Thycotic One, Cloud Manager"
-[priority]: # "1000"
+[title]: # (Thycotic One Team Cloud Subscriptions)
+[tags]: # (Thycotic One, Cloud Manager)
+[priority]: # (1000)
 
 # Thycotic One Team Cloud Subscriptions
 

@@ -1,8 +1,8 @@
 
 
-[title]: # "Thycotic One Organization General"
-[tags]: # "Thycotic One, Cloud Manager, Organizations"
-[priority]: # "1000"
+[title]: # (Thycotic One Organization General)
+[tags]: # (Thycotic One, Cloud Manager, Organizations)
+[priority]: # (1000)
 
 # Team Organization General
 

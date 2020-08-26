@@ -1,8 +1,8 @@
 
 
-[title]: # "Cloud Status"
-[tags]: # "status,Cloud Manager"
-[priority]: # "1000"
+[title]: # (Cloud Status)
+[tags]: # (status,Cloud Manager)
+[priority]: # (1000)
 
 # Cloud Status
 

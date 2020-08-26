@@ -1,6 +1,6 @@
-[title]: # "Thycotic One Team Organization Applications"
-[tags]: # "Thycotic One, Cloud Manager, Organizations, Applications"
-[priority]: # "1000"
+[title]: # (Thycotic One Team Organization Applications)
+[tags]: # (Thycotic One, Cloud Manager, Organizations, Applications)
+[priority]: # (1000)
 
 # Thycotic One Team Organization Applications
 

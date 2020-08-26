@@ -1,6 +1,6 @@
-[title]: # "Thycotic One Teams"
-[tags]: # "Thycotic One, Cloud Manager, Teams"
-[priority]: # "1000"
+[title]: # (Thycotic One Teams)
+[tags]: # (Thycotic One, Cloud Manager, Teams)
+[priority]: # (1000)
 
 # Thycotic One Teams
 

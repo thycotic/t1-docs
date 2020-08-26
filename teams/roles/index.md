@@ -1,6 +1,6 @@
-[title]: # "Thycotic One Team Roles"
-[tags]: # "Thycotic One, Cloud Manager, roles"
-[priority]: # "1000"
+[title]: # (Thycotic One Team Roles)
+[tags]: # (Thycotic One, Cloud Manager, roles)
+[priority]: # (1000)
 
 # Thycotic One Team Roles
 
