@@ -1,4 +1,4 @@
-[title]: # (Thycotic One Team Organizations)
+[title]: # (Thycotic One Organizations)
 [tags]: # (Thycotic One, thycotic one organizations)
 [priority]: # (1000)
 
