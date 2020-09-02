@@ -73,7 +73,9 @@
 
    ![image-20200821143810068](images/image-20200821143810068.png)
 
-1. Confirm the subscription on your phone or via email when the message arrives. WILL NOTE: THE CONFIRMATION NEVER ARRIVED, SO I DON'T KNOW WHAT COMES NEXT.
+1. Click the **Confirm Subscription** button to confirm the subscription on your phone or via email when the message arrives:
+
+   ![image-20200902133904933](images/image-20200902133904933.png)
 
 ## Viewing or Editing Alert Subscription Details
 
