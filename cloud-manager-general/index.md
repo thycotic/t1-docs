@@ -34,9 +34,9 @@
 
    ![image-20200821112448071](images/image-20200821112448071.png)
 
-   > **Note:** See [Understanding the Cloud Manager Dashboard](#understanding-the-dashboard) for details.
+   > **Note:** See [Understanding the Cloud Manager Dashboard](#understanding-the-cloud-manager-dashboard) for details.
 
-1. Click the **Manage** link at the top right and select **Teams**. The Teams page appears:
+1. Click the **Manage** link at the top right of the page and select **Teams**. The Teams page appears:
 
    ![image-20200821113653381](images/image-20200821113653381.png)
    The Teams page is the management page for Cloud Manager. Teams are a way to divide up your management into product instances, such as SSC or Privilege Manager, that have separate privileges, users and organization.  (See [Teams](../teams/index.md)).
@@ -71,4 +71,4 @@ The Cloud Manager dashboard provides and overview of your cloud instance. It pro
 
   - Not Provisioned.
 
-- **Tech Support PIN**: A generator for a PIN that you will need if you choose to contact our technical support. See [Technical Support](../help/technical-support/index.md).
+- **Tech Support PIN**: A generator for a PIN that you will need if you choose to contact our technical support. See [Technical Support](../help/tech-support/index.md).

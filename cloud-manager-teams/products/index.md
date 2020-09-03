@@ -4,7 +4,7 @@
 
 # Team Products
 
-*Products* are Thycotic cloud products other than SSC, such as Privilege Manager Cloud, DevOps Vault, and Account Lifecyle Manager. Subscriptions are essentially the exact same thing for SSC.
+*Products* are Thycotic cloud products other than SSC, such as Privilege Manager Cloud, DevOps Secrets Vault, and Account Lifecyle Manager. Subscriptions are essentially the exact same thing for SSC.
 
 > **Note:** The reason there are two names for nearly the same thing is they came from separate legacy development paths. We intend to combine them in a future Cloud Manager release.
 
@@ -18,5 +18,4 @@
 
    ![image-20200821115134802](images/image-20200821115134802.png)
 
-1. Behold the empty page. What exactly is a product, what can we do with them?
 

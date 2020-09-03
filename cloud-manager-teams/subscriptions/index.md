@@ -32,7 +32,7 @@
 
 1. If desired, type the new hostname in the **Name** text box.
 
-   > **Important:** Do not do this if you have deployed distributed engines. This will cause issues.
+   > **Important:** If you change the cloud hostname, any distributed engines you have connected to your cloud instance will continue to contact the old hostname. Any distributed engine functionality, like password changing and discovery, will no longer work. To fix this, uninstall, re-download, and reinstall any distributed engines you have  deployed.
 
 1. If desired, type the new subdomain name in the **Subdomain** text box.
 

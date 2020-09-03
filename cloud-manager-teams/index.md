@@ -39,6 +39,6 @@ Generally, teams apply to admins, not regular users. You might have more than on
 
    ![image-20200824155351517](images/image-20200824155351517.png)
 
-1. Click the **Role** dropdown list to select the role for the Team's users.
+1. Click the **Role** dropdown list to select the role for the team's users. See [Team Roles](../cloud-manager-teams/roles/index.md) for more on roles.
 
 1. Click the **Save** button.
