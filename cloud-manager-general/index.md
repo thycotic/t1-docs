@@ -6,7 +6,7 @@
 
 ## Opening Cloud Manager
 
-> **Note:**  if you are already logged on your Secret Server Cloud (SSC) domain, you can also access Cloud Manager by going to **Admin \> Cloud Subscriptions**, rather than completing this procedure. Click the **Thycotic Cloud Portal** link.
+> **Note:**  If you are already logged on your Secret Server Cloud (SSC) domain, you can also access Cloud Manager by going to **Admin \> Cloud Subscriptions**, rather than completing this procedure. Click the **Thycotic Cloud Portal** link.
 
 1. In a Web browser, navigate to the Secret Server Cloud (SSC) portal at `https://portal.thycotic.com`. The Log on page appears:
 

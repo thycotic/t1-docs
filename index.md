@@ -33,7 +33,7 @@ We suggest starting with [Understanding the Cloud Manager Dashboard](./cloud-man
 
 - [Self-Help Resources](./help/self-help-resources/index.md)
 
-- [Technical Support](./help/technical-support/index.md)
+- [Technical Support](./help/tech-support/index.md)
 
 ### Secret Society (Forum)
 
