@@ -60,7 +60,7 @@
 
 1. Edit the following as desired:
 
-   - **Name**: This is the user's email address or other display name.
+   - **Name**: This is the user's email address or other unique name.
 
    - **Enabled**: Allows you to toggle a user's access without having to reenter the user later.
 

@@ -6,7 +6,7 @@
 
 # Thycotic One Application Credentials
 
-An *application credential* is an OpenID Connect client ID and client secret that applications, such as Secret Server Cloud, use to  connect to Thycotic One and authenticate against it. Credentials can also push user accounts into Thycotic One. For example, SSC syncs its user account list with Thycotic One when that option is enabled. All those users belong to the original organization, which is set up for them when they provision the instance.
+An *application credential* is a client ID and client secret that applications, such as Secret Server Cloud, use to  connect to Thycotic One and authenticate against it. Credentials can also push user accounts into Thycotic One. For example, SSC syncs its user account list with Thycotic One when that option is enabled. All those users belong to the original organization, which is set up for them when they provision the instance.
 
 ## Editing Credentials
 
@@ -28,13 +28,13 @@ An *application credential* is an OpenID Connect client ID and client secret tha
 
 1. Edit the controls as follows:
 
-   - **Name**: A display name for this credential.
+   - **Name**: This name appears somewhere. ANY CONSIDERATIONS?
 
-   - **Post-Login Redirect URIs**: Allowed callback URLs to which the user may be redirected after logging in. These are typically provided by the application that users will be logging into. The redirect URI provided during the login process must match one of these URIs exactly, or the login will fail.
+   - **Post-Login Redirect URIs**: Location where your users are redirected for log on. Click the **+** to add URLs to the list. Click the red trashcan button to delete one. WILL NOTE: THE VALUES SHOWN ARE URLS, NOT URIS. CAN YOU REALLY USE URIS? I DON'T UNDERSTAND HOW YOU CAN BE REDIRECTED TO MORE THAN ONE PLACE. YOU CHOOSE BETWEEN THEM ELSEWHERE?
 
-   - **Post-Logout Redirect URIs Credentials**: Allowed callback URLs to which the user may be redirected after logging out. These are optional, and only supported if the consuming application supports this feature.
+   - **Post-Logout Redirect URIs Credentials**: Location where your users are redirected upon log off. It includes the endpoint URL and the client ID. It is read only for the Thycotic One log on. Click the **+** to add URLs to the list.  Click the red trashcan button to delete one. WILL NOTE: I DON'T UNDERSTAND HOW YOU CAN BE REDIRECTED TO MORE THAN ONE PLACE. YOU CHOOSE BETWEEN THEM ELSEWHERE?
 
-   - **Revoked**: Click to select this if you wish to revoke the credential. This can be used if you want to temporarily disable a credential, but not permanently delete it.
+   - **Revoked**: Click to select this if you wish to revoke the credential. WILL NOTE: WHY NOT JUST DELETE IT?
 
 1. Click the **Save** button.
 
