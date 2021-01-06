@@ -39,7 +39,7 @@
 1. Click the **Manage** link at the top right of the page and select **Teams**. The Teams page appears:
 
    ![image-20200821113653381](images/image-20200821113653381.png)
-   The Teams page is the management page for Cloud Manager. Teams are a way to divide up your management into product instances, such as SSC or Privilege Manager, that have separate privileges, users and organization.  (See [Teams](../cloud-manager-teams/index.md)).
+   The Teams page is the management page for Cloud Manager. Teams are a way to divide up your management into product instances, such as SSC or Privilege Manager, that have separate privileges, users and organization.  (See [Teams](../teams/index.md)).
 
 ## Understanding the Cloud Manager Dashboard
 
