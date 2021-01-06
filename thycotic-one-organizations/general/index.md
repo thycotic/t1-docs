@@ -6,7 +6,9 @@
 
 # Organization General Procedures
 
-## Adding External Authorization Providers
+## Adding External Authentication Providers
+
+Thycotic One supports external OpenID Connect authentication providers. During a user's login, if an organization has configured one or more external providers, the user will be prompted to select which provider to use, or to log in with a Thycotic One account password.
 
 1. Log on to your Cloud Manager at `portal.thycotic.com`.
 
@@ -24,7 +26,15 @@
 
    ![image-20200824133201683](images/image-20200824133201683.png)
 
-1. Type in the parameters for your desired provider. **Secret** is the SSC secret used to connect to and authenticate with the provider. **Callback URL** is the URL used by the provider after the authentication is complete to communicate with SSC.
+1. Type in the parameters for your desired provider.
+
+    - **Description** is a display name.
+
+    - **Provider URL** is the OpenID Connect base server URL of the external provider. Specifically, this must be a publicly accessible URL from which the OpenID Connect configuration document can be fetched. For example, if the OpenID Connect configuration document is available at `https://example.com/.well-known/openid-configuration`, then this setting should be set to `https://example.com`.
+    
+    - **Client ID** and **Secret** are the credentials used to connect to and authenticate with the provider.
+    
+    - **Callback URL** is the redirect URI required to complete the OpenID Connect login process. In most cases, the external provider must be configured to allow this specific URL.
 
 1. Click to select the **Enabled** check box. You can deselect it if you wish to enter the authentication provider without using it yet.
 
@@ -46,9 +56,7 @@
 
 1. Name and cloud region:
 
-   - Edit the name in the **Name** text box. 
-
-   - Click to select the Thycotic cloud region in the **Thycotic One Connection** dropdown list. WILL NOTE: RAMIFICATIONS OF CHANGING THIS?
+   - Edit the name in the **Name** text box.
 
 1. Log on security:
 
@@ -68,10 +76,6 @@ See [Editing Organization Settings](#editing-organization-settings).
 See [Editing Organization Settings](#editing-organization-settings).
 
 ## Setting the Password Policy
-
-See [Editing Organization Settings](#editing-organization-settings).
-
-## Setting Thycotic One Regions
 
 See [Editing Organization Settings](#editing-organization-settings).
 
