@@ -4,10 +4,6 @@
 
 # Self-Help Resources
 
-## Forums
-
-[Forums](https://my.thycotic.com/forums/). Forums are oriented toward admins and other technical users.
-
 ## Thycotic Blog
 
 [Thycotic Blog](https://thycotic.com/company/blog/)
